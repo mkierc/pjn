@@ -1,0 +1,42 @@
+Wyniki
+	Angielski:		N		wynik			poprawność
+					1		Niemiecki(4)	ŹLE
+					2		Angielski(1)	DOBRZE
+					3		Angielski(1)	DOBRZE
+					4		Angielski(1)	DOBRZE
+					5		Angielski(1)	DOBRZE
+
+	Fiński:			N		wynik			poprawność
+					1		Fiński(1)		DOBRZE
+					2		Fiński(1)		DOBRZE
+					3		Fiński(1)		DOBRZE
+					4		Fiński(1)		DOBRZE
+					5		Fiński(1)		DOBRZE
+
+	Hiszpański:		N		wynik			poprawność
+					1		Hiszpański(2)	DOBRZE
+					2		Hiszpański(1)	DOBRZE
+					3		Hiszpański(1)	DOBRZE
+					4		Hiszpański(2)	DOBRZE
+					5		Hiszpański(2)	DOBRZE
+
+	Niemiecki:		N		wynik			poprawność
+					1		Niemiecki(1)	DOBRZE
+					2		Niemiecki(1)	DOBRZE
+					3		Niemiecki(1)	DOBRZE
+					4		Niemiecki(1)	DOBRZE
+					5		Niemiecki(1)	DOBRZE
+
+	Polski:			N		wynik			poprawność
+					1		Polski(2)		DOBRZE
+					2		Polski(2)		DOBRZE
+					3		Polski(2)		DOBRZE
+					4		Polski(2)		DOBRZE
+					5		Polski(3)		DOBRZE
+
+	Włoski:			N		wynik			poprawność
+					1		Włoski(2)		DOBRZE
+					2		Hiszpański(2)	ŹLE
+					3		Angielski(2)	ŹLE
+					4		Angielski(2)	ŹLE
+					5		Angielski(1)	ŹLE

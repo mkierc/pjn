@@ -1,0 +1,41 @@
+﻿Próbki:
+	Angielski
+
+	http://en.wikipedia.org/wiki/Language
+
+Language is the human ability to acquire and use complex systems of communication, and a language is any specific example of such a system. The scientific study of language is called linguistics. Questions concerning the philosophy of language, such as whether words can represent experience, have been debated since Gorgias and Plato in Ancient Greece. Thinkers such as Rousseau have argued that language originated from emotions while others like Kant have held that it originated from rational and logical thought. 20th-century philosophers such as Wittgenstein argued that philosophy is really the study of language. Major figures in linguistics include Ferdinand de Saussure and Noam Chomsky.
+
+
+	Fiński
+
+	http://fi.wikipedia.org/wiki/Kieli
+
+Kieli on järjestelmä, jossa ihminen ilmaisee ajatuksensa kielellisillä merkeillä, abstraktioilla. Näitä merkkejä nimitetään kielellisiksi ilmauksiksi. Puhutuissa kielissä kuuluvia (auditiivisia) merkkejä tuotetaan puhe-elimillä. Kirjoitetussa kielessä kielelliset ilmaukset on tehty silmin nähtäviksi eli luettaviksi. Viitotuissa kielissä kielelliset ilmaukset ovat visuaalisia, eivät auditiivisia. Eri kieliä tutkii kielitiede. Kognitiotiede tutkii kieltä hieman erilaisesta näkökulmasta: biolingvistiikka tutkii niitä ihmisaivojen rakenteita jotka tuottavat kaikki kielet ja niiden samankaltaisen perusrakenteen.
+
+
+	Hiszpański
+
+	http://es.wikipedia.org/wiki/Lenguaje
+
+Un lenguaje (del provenzal lenguatge1 y este del latín lingua) es un sistema de comunicación estructurado para el que existe un contexto de uso y ciertos principios combinatorios formales. Existen contextos tanto naturales como artificiales. Desde un punto de vista más amplio, el lenguaje indica una característica común al hombre y a los animales para expresar sus experiencias y comunicarlas a otros mediante el uso de símbolos, señales y sonidos registrados por los órganos de los sentidos. El ser humano emplea un lenguaje complejo que se expresa con secuencias sonoras y signos gráficos. Los animales, por su parte, se comunican a través de signos sonoros y corporales y en muchos casos distan de ser sencillos.
+
+
+	Niemiecki
+
+	http://de.wikipedia.org/wiki/Sprache
+
+Unter Sprache versteht man die Menge, die als Elemente alle komplexen Systeme der Kommunikation beinhaltet. Der Term wird meist verwendet, um anzuzeigen, dass konkrete Zeichensysteme Elemente dieser Menge sind (z. B. die deutsche Sprache, die Programmiersprache Basic); umgekehrt, um anzuzeigen, dass diese konkreten Zeichensysteme den Eigenschaften einer Definition des Begriffs „Sprache“ genügen. Eine andere Definition ist: Sprachen sind „die Systeme von Einheiten und Regeln, die den Mitgliedern von Sprachgemeinschaften als Mittel der Verständigung dienen“. Es werden zahlreiche Einzelsprachen unterschieden. Zudem werden sie auf unterschiedlicher Weise unterteilt (z. B. in konstruierte Sprachen und natürliche Sprachen). Beispiele unter Menschen sind die Lautsprache und die Körpersprache (Unterschied aufgrund akustischer bzw. optischer Informationsübertragung).
+
+
+	Polski
+
+	http://pl.wikipedia.org/wiki/J%C4%99zyk_(mowa)
+
+Język służy do przedstawiania rzeczywistości dotyczącej przedmiotów, czynności czy abstrakcyjnych pojęć za pomocą znaków. Zbiór znaków w języku jest otwarty. Wynika to z faktu, że znakiem językowym jest każdy tekst, każda sformułowana wypowiedź, posiadająca znaczenie. Jednostka posługująca się językiem może więc za pomocą jego systemu tworzyć nieskończoną liczbę nowych znaków, także takich, z którymi nigdy się wcześniej nie zetknęła. Znaki te niekoniecznie wzbogacają jednak sam system językowy, gdyż użytkownicy nie uczą się na pamięć wszystkich zasłyszanych wypowiedzi – są jednak w stanie w oparciu o język stworzyć nowy tekst (znak) o tym samym, bądź zbliżonym znaczeniu. Tak więc język to nie tylko system znaków, ale szerzej – system tworzenia znaków.
+
+
+	Włoski
+
+	http://it.wikipedia.org/wiki/Linguaggio
+
+Il linguaggio verbale basato sulla doppia articolazione è una prerogativa dell'uomo, senza il quale esso non sarebbe tale. Non esiste infatti in nessun altro essere vivente un linguaggio simile per complessità e livello di elaborazione. Esistono due differenti teorie sull'origine del linguaggio umano, la prima che parla del linguaggio come innato, l’altra come una abilità appresa. Un'altra incertezza è se le tante lingue moderne derivino da una comune lingua originaria (ipotesi monogenetica) oppure da diversi ceppi primordiali (ipotesi poligenetica). Non c’è dubbio, comunque, che le lingue esistenti sono il risultato di un processo di differenziazione avvenuto nel corso dei millenni.
