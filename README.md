@@ -1,2 +1,1 @@
-# pjn
-Przetwarzanie Języka Naturalnego
+# Przetwarzanie Języka Naturalnego
