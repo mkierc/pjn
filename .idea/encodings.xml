@@ -2,6 +2,8 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/resources/lab1/lab1.pdf" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/lab2/Levenshtein.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lab2/SpellCheck.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
