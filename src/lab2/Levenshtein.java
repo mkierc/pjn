@@ -37,7 +37,7 @@ public class Levenshtein {
                         distance[i - 1][j - 1] + ortographicDistance(word1.charAt(i - 1), word2.charAt(j - 1)),
                         distance[i - 1][j - 1] + diacriticalDistance(word1.charAt(i - 1), word2.charAt(j - 1)));
 
-                // eksperymentalne sprawdzanie dwuznaków
+                // TODO: Czeskie błędy - obecnie nie działa (wyjeżdza poza zakres tablicy)
                 /*
                 if (i > 1 && j > 1 && word1.charAt(i - 1) == word2.charAt(j - 2) && word1.charAt(i - 2) == word2.charAt(j - 1))
                     if (! (word1.charAt(i - 1) == word2.charAt(i - 2)))
@@ -124,9 +124,5 @@ public class Levenshtein {
 
     private static float minimum(float a, float b, float c, float d, float e) {
         return Math.min(Math.min(Math.min(Math.min(a, b), c), d), e);
-    }
-
-    private static float minimum(float a, float b, float c) {
-        return Math.min(Math.min(a, b), c);
     }
 }
