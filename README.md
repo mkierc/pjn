@@ -46,9 +46,9 @@
 - [ ] Napisać program, który dla danej notatki z korpusu PAP przedstawi N najbardziej zbliżonych tematycznie notatek i wypisze M najistotniejszych tematów tych notatek w modelach LSA i LDA (1.5 pkt)
 
 #### Zadanie 9 ([PDF](http://home.agh.edu.pl/~wojtek/pjn2015/lab9.pdf), [Kopia](https://github.com/mkierc/pjn/blob/master/pdf/lab9.pdf), [Pliki](http://home.agh.edu.pl/~wojtek/pjn2015/lab9.tar.gz))
-- [ ] Stworzyć stoplistę (0.5 pkt)
-- [ ] Przekonwertować korpus PAP na model grafowy (1 pkt)
-- [ ] Dla wybranych 10 notatek znaleźć po 10 najbliższych notatek dla k od 0 do 4 (1.5 pkt)
+- [x] Stworzyć stoplistę (0.5 pkt)
+- [x] Przekonwertować korpus PAP na model grafowy (1 pkt)
+- [x] Dla wybranych 10 notatek znaleźć po 10 najbliższych notatek dla k od 0 do 4 (1.5 pkt)
 
 #### Zadanie 10 ([PDF](http://home.agh.edu.pl/~wojtek/pjn2015/lab10.pdf), [Kopia](https://github.com/mkierc/pjn/blob/master/pdf/lab10.pdf))
 - [ ] Napisać program ustalający rekcję 5 wybranych przyimków (1.5 – 3 pkt)
