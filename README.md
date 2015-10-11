@@ -51,4 +51,4 @@
 - [x] Dla wybranych 10 notatek znaleźć po 10 najbliższych notatek dla k od 0 do 4 (1.5 pkt)
 
 #### Zadanie 10 ([PDF](http://home.agh.edu.pl/~wojtek/pjn2015/lab10.pdf), [Kopia](https://github.com/mkierc/pjn/blob/master/pdf/lab10.pdf))
-- [ ] Napisać program ustalający rekcję 5 wybranych przyimków (1.5 – 3 pkt)
+- [x] Napisać program ustalający rekcję 5 wybranych przyimków (1.5 – 3 pkt)
