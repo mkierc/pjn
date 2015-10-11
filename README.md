@@ -36,10 +36,10 @@
 - [x] Zliczyć hapax legomena i ilość wyrazów, które obejmują 50% tekstu (0.5 pkt)
 
 #### Zadanie 7 ([PDF](http://home.agh.edu.pl/~wojtek/pjn2015/lab7.pdf), [Kopia](https://github.com/mkierc/pjn/blob/master/pdf/lab7.pdf), [Pliki](http://home.agh.edu.pl/~wojtek/pjn2015/lab7.tar.gz))
-- [ ] Zbudować macierz tf-idf dla korpusu PAP (0.5 pkt)
-- [ ] Dla każdej notatki wygenerować słowa kluczowe (0.5 pkt)
-- [ ] Napisać program wyszukujący notatki na podstawie słów (1 pkt)
-- [ ] Napisać program wyszukujący notatki podobne do wybranej (1 pkt)
+- [x] Zbudować macierz tf-idf dla korpusu PAP (0.5 pkt)
+- [x] Dla każdej notatki wygenerować słowa kluczowe (0.5 pkt)
+- [x] Napisać program wyszukujący notatki na podstawie słów (1 pkt)
+- [x] Napisać program wyszukujący notatki podobne do wybranej (1 pkt)
 
 #### Zadanie 8 ([PDF](http://home.agh.edu.pl/~wojtek/pjn2015/lab8.pdf), [Kopia](https://github.com/mkierc/pjn/blob/master/pdf/lab8.pdf), [Pliki](http://home.agh.edu.pl/~wojtek/pjn2015/lab8.tar.gz))
 - [ ] Zbudować modele LSA i LDA przy użyciu np. [biblioteki gensim](http://radimrehurek.com/gensim/tutorial.html). Proszę pamiętać o sprowadzeniu wyrazów do formy podstawowej (1.5 pkt)
