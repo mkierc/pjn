@@ -31,9 +31,9 @@
 - [ ] Napisać funkcję generującą losowe słowa w języku polskim (1 pkt)
 
 #### Zadanie 6 ([PDF](http://home.agh.edu.pl/~wojtek/pjn2015/lab6.pdf), [Kopia](https://github.com/mkierc/pjn/blob/master/pdf/lab6.pdf), [Pliki](http://home.agh.edu.pl/~wojtek/pjn2015/lab6.tar.gz))
-- [ ] Wykorzystując plik `odm.txt` (lista słów z odmianami z SJP), sprowadzić wszystkie wyrazy z pliku `potop.txt` do formy podstawowej, a następnie stworzyć posortowaną listę rankingową częstosści wystąpień poszczególnych wyrazów (1.5 pkt)
+- [x] Wykorzystując plik `odm.txt` (lista słów z odmianami z SJP), sprowadzić wszystkie wyrazy z pliku `potop.txt` do formy podstawowej, a następnie stworzyć posortowaną listę rankingową częstosści wystąpień poszczególnych wyrazów (1.5 pkt)
 - [ ] Dla powstałej listy narysowacć wykres ilustrujący Prawa Zipfa i Mandelbrota (1 pkt)
-- [ ] Zliczyć hapax legomena i ilość wyrazów, które obejmują 50% tekstu (0.5 pkt)
+- [x] Zliczyć hapax legomena i ilość wyrazów, które obejmują 50% tekstu (0.5 pkt)
 
 #### Zadanie 7 ([PDF](http://home.agh.edu.pl/~wojtek/pjn2015/lab7.pdf), [Kopia](https://github.com/mkierc/pjn/blob/master/pdf/lab7.pdf), [Pliki](http://home.agh.edu.pl/~wojtek/pjn2015/lab7.tar.gz))
 - [ ] Zbudować macierz tf-idf dla korpusu PAP (0.5 pkt)
